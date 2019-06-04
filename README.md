@@ -5,4 +5,4 @@ Vamos a retarnos y mostremos nuestras habilidades de diseño programando. El ret
 
 ![](https://cdn.dribbble.com/users/1171520/screenshots/6540871/pokedex2.png)
 
-
+Puedes usar este servicio para obtener la información de los [pokemones](https://github.com/fanzeyi/pokemon.json/blob/master/pokedex.json), tienes desde los nombres hasta las [imágenes](https://github.com/fanzeyi/pokemon.json/tree/master/thumbnails).
